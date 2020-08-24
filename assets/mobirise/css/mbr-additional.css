@@ -768,7 +768,7 @@ a {
 }
 .cid-s8zF5lWFAb {
   padding-top: 30px;
-  padding-bottom: 90px;
+  padding-bottom: 30px;
   position: relative;
   background-color: #ffffff;
 }
@@ -792,4 +792,99 @@ a {
   font-family: 'Moririse2' !important;
   font-size: 1.4rem !important;
   color: #6592e6;
+}
+.cid-s8zLJbpSPM {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-s8zLJbpSPM .counter-container {
+  color: #767676;
+}
+.cid-s8zLJbpSPM .counter-container ul {
+  margin-bottom: 0;
+}
+.cid-s8zLJbpSPM .counter-container ul li {
+  margin-bottom: 1rem;
+  list-style: none;
+  position: relative;
+}
+.cid-s8zLJbpSPM .counter-container ul li:before {
+  position: absolute;
+  left: -56px;
+  margin-top: -10px;
+  padding-top: 3px;
+  content: '';
+  display: inline-block;
+  text-align: center;
+  margin: 5px 10px;
+  line-height: 20px;
+  transition: all .2s;
+  color: #ffffff;
+  background: #149dcc;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+}
+.cid-s8zLJbpSPM .mbr-text {
+  color: #000000;
+}
+.cid-s8zM9WuW0d {
+  background-color: #4479d9;
+}
+.cid-s8zM9WuW0d .number-wrap {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-s8zM9WuW0d .number {
+  color: #ffffff;
+}
+.cid-s8zM9WuW0d .period {
+  display: block;
+}
+.cid-s8zM9WuW0d .dot {
+  display: none;
+}
+@media (max-width: 767px) {
+  .cid-s8zM9WuW0d .period {
+    font-size: 0.8rem;
+  }
+}
+.cid-s8zM9WuW0d .btn {
+  height: 100%;
+  margin: 0;
+}
+.cid-s8zM9WuW0d .mbr-section-btn {
+  margin-bottom: 1.2rem;
+}
+.cid-s8zM9WuW0d .mbr-section-title {
+  color: #ffffff;
+}
+.cid-s8zM9WuW0d .mbr-text {
+  color: #ffffff;
+}
+.cid-s8zM9WuW0d .icons-menu .soc-item {
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.cid-s8zM9WuW0d .icons-menu .soc-item .mbr-iconfont {
+  font-size: 2rem;
+  display: flex;
+  border-radius: 50%;
+  text-align: center;
+  color: #ffffff;
+  border: 2px solid #ffffff;
+  justify-content: center;
+  align-content: center;
+  transition: all 0.3s;
+}
+.cid-s8zM9WuW0d .icons-menu .soc-item .mbr-iconfont:before {
+  padding: 0.6rem;
+}
+.cid-s8zM9WuW0d .icons-menu .soc-item .mbr-iconfont:hover {
+  background-color: #ffffff;
+  color: #000000;
+}
+.cid-s8zM9WuW0d .mbr-section-subtitle {
+  color: #ffffff;
 }
